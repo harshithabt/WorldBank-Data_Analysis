@@ -63,6 +63,7 @@ Each indicator has three plots:
 World-Bank-Data-Analysis/
 │
 ├── WorldBank_DataAnalysis.ipynb   # Main notebook (run on Colab)
+├── .gitognore                     # Ignored files
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
 ├── LICENSE                        # MIT License
